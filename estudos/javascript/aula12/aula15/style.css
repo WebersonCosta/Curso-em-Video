@@ -1,0 +1,37 @@
+body{
+    background-color: #468eec;
+    font: normal 15pt Arial;
+    color: white;
+}
+header{
+    text-align: center;
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    color: black;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+    text-align: center;
+}
+#res{
+    padding: 5px;
+}
+#res img{
+    padding-top: 30px;
+}
+.butao{
+    background-color: #468eec;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bolder;
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
